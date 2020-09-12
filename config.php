@@ -7,11 +7,11 @@
  * Description: The purpose of this file is to serve as the configuration settings for the database connection. Here we configure the host, db, username, and password and initiate the connection.
  */
 
-$host = "ilinkserver.cs.utep.edu";
-$db = "s20pm_team8";   # enter your team database here.
+$host = "***";
+$db = "***";   # enter your team database here.
 
-$username = "sgalvan6";  # enter your username here.
-$password = "jams2020";  # enter your password here.
+$username = "***";  # enter your username here.
+$password = "***";  # enter your password here.
 
 /**
  * Making the connection to the database.
