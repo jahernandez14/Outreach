@@ -1,0 +1,138 @@
+.home-welcome {
+    min-height: 500px;
+}
+
+.top-logo {
+    height: 10%;
+    width: 10%;
+}
+
+.login-logo {
+    height: 15%;
+    width: 15%;
+}
+
+.half-logo {
+    height: 50%;
+    width: 50%;
+}
+
+.quarter-logo {
+    height: 25%;
+    width: 25%;
+}
+
+.logo18 {
+    height: 18%;
+    width: 18%;
+}
+
+.login-input {
+    width: 15%;
+}
+
+.login-input3 {
+    width: 3%;
+}
+
+.login-button {
+    width: 100%;
+}
+
+.top-padding10 {
+    margin-top: 10%;
+}
+
+.top-padding5 {
+    margin-top: 5%;
+}
+
+.top-padding2 {
+    margin-top: 2%;
+}
+
+.top-padding1 {
+    margin-top: 1%;
+}
+
+.side-padding {
+    padding-left: 5%;
+}
+
+.right-padding {
+    padding-right: 5%;
+}
+
+.right-padding20 {
+    margin-left: 80%;
+}
+
+.utepColors {
+    color: #FFFFFF;
+    background-color: #041E42;
+}
+
+.jamText {
+    color: #000000;
+}
+
+.largeFont {
+    font-size: 500%;
+    font-weight: bold;
+  }
+.footerLogin {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .headerFixed {
+    position: fixed;
+    left: 37.5%;
+    top: 0;
+    width: 25%;
+}
+
+td,
+th {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+    color: #ff8200;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}
+
+th[scope="col"] {
+    background-color: #696969;
+    color: #ff8200;
+}
+
+th[scope="row"] {
+    background-color: #d7d9f2;
+}
+
+caption {
+    padding: 10px;
+    caption-side: bottom;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: 2.5em;
+}
